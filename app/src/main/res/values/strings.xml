@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QrScanner</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="generate">GENERATE</string>
+    <string name="qrscanner">QR Scanner</string>
+    <string name="result">QR Result</string>
+    <string name="copy">copy</string>
+    <string name="flash_light">Flash Light</string>
+    <string name="qrgenerator">QR generator</string>
+    <string name="qr_code_icon">&#xe938;</string>
+
+
+
+
+
+</resources>
